@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nature of Code</title><link>https://hadella.github.io/noc/</link><description>Recent content on Nature of Code</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hadella.github.io/noc/index.xml" rel="self" type="application/rss+xml"/><item><title>Bouncing Ball</title><link>https://hadella.github.io/noc/ch00/bouncing-ball/</link><pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate><guid>https://hadella.github.io/noc/ch00/bouncing-ball/</guid><description>&lt;div class="p5-wrapper"&gt;
+ &lt;iframe class="p5-frame p5-responsive"
+ src="https://hadella.github.io/noc/p5loader.html?base=https://hadella.github.io/noc/ch00/bouncing-ball/&amp;amp;sketch=sketch.js&amp;amp;jsroot=https://hadella.github.io/noc/js/"
+ width="100%"
+ scrolling="no"
+ frameborder="0"
+ allowtransparency="true"&gt;
+ &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Bouncing Ball&lt;/strong&gt; is the &amp;ldquo;Hello, World&amp;rdquo; of p5.js &amp;ndash; A ball bouncing within a window.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is just a simple demo to show p5 working&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
