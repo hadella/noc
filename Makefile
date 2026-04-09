@@ -1,5 +1,7 @@
+.PHONY: serve clean
+
 serve:
 	hugo server -D
 
-deploy:
-	#hugo --minify
+clean:
+	rm -rf public .hugo_build.lock
