@@ -1,0 +1,8 @@
+baseURL  = "https://hadella.github.io/noc/"
+title    = "Nature of Code"
+theme    = "showcase"
+
+[params]
+  grid_cols  = 4
+  grid_rows  = 3
+  custom_css = "css/custom.css"
