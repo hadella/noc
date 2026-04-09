@@ -1,3 +1,8 @@
 :root {
     --accent-color: #fb1f8d;
 }
+
+.tile-label {
+    text-align: left;
+    width: 100%;
+}
